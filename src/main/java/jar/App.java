@@ -1,4 +1,4 @@
-public class AsciiValue {
+public class App {
     public static void main(String[] args) {
         char ch = 'a';
         int ascii = ch;
